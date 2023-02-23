@@ -1,0 +1,55 @@
+# Başlıklar ->h1
+## ->h2
+### ->h3
+
+- list item 1
+- list item 2
+
+* list item 3
+* list item 4
+
+*italic*
+**bold**
+***bolditalic***
+
+[bağlantı ekleme googleye gitmek için tıkla](https://google.com)
+
+***
+![resim ekleme lorem picsum gorsel](https://picsum.photos/200/300)
+
+***
+- 3 backtick işareti kullanırsak kodlarımızı blok içerisine alır..
+    ```console.log("Hello, World!")```
+
+    
+
+- tek backtick kullansakta aynı sonucu verir
+    `console.log("Hello, World!")`
+
+* farklı şekillerde kullanırsak:
+
+```
+console.log("Hello, World!")
+```
+
+- python
+
+```python
+print("hello world")
+```
+
+- javascript
+
+``` javascript
+console.log("Hello, World!")
+
+function helloworld() {
+    console.log("Hello, World!")
+}
+```
+
+
+
+
+
+
