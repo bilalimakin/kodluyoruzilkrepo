@@ -4,6 +4,8 @@ Bu repo [ Kodluyoruz ](https://kodluyoruz.org) Front-End Eğitiminde Oluşturdu�
 
 Tüm Değişikliklerimi commitleyip tekrardan Github'a Pushladım.
 
+[patika.dev linkim için tıklayınız.](https://app.patika.dev/axel)
+
 ***
 
 ## Installation
